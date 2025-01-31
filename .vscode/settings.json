@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "PdfGenAPI.sln",
+  "appService.defaultWebAppToDeploy": "",
+  "appService.deploySubpath": "PdfGenAPI\\bin"
+}
