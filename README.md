@@ -1,15 +1,12 @@
 # PDF-GEN
 
 ## Description
-PDF-GEN is a repository written in C# aimed at generating PDF documents. This repository serves as a starting point for anyone looking to integrate PDF generation functionality into their C# projects.
+PDF-GEN is a repository written in C# aimed at generating PDF documents for healcare legal documents.
 
 ## Features
-- Basic PDF generation
+- Basic and complex PDF generation
 - Customizable document content
 
-## Getting Started
-### Prerequisites
-- .NET Framework or .NET Core SDK installed on your machine.
 
-### Installation
-1. Clone the repository:
+
+
